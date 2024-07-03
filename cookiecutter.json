@@ -3,6 +3,7 @@
     "description": "",
     "email": "fedor@borshev.com",
     "name": "testproject",
+    "python_version": "~3.11",
     "_copy_without_render": [
 	".github/actions/build/action.yml",
 	".github/workflows/ci.yml",
